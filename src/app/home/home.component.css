@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    justify-content: center; /* horizontally center */
+    align-items: center; /* vertically center */
+    height: 100vh; /* set the height of the container to full viewport height */
+  }
+  
+  .form-container {
+    /* Add additional styles for your form container if needed */
+  }
+  
